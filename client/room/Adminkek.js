@@ -1,4 +1,4 @@
-if (player.id  == "7CE37DE570BF7B0C" || player.id == "EB52F9F7AA489D6E" || player.id == "1884722D6A387FE3"){  
+if (player.id  == "7CE37DE570BF7B0C")  
 player.inventory.MainInfinity.Value = true;   
 player.inventory.Main.Value = true;   
 player.inventory.Melee.Value = true;   
